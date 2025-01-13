@@ -4,11 +4,11 @@ const Videos = () => {
   const videos = [
     {
       id: 'Yin3r31uiBI',
-      title: 'Simulation Clicker Gameplay Short'
+      title: 'stimulation Clicker Gameplay Short'
     },
     {
       id: '8Bt3xQlbB9Y',
-      title: 'Simulation Clicker Full Gameplay'
+      title: 'stimulation Clicker Full Gameplay'
     }
   ];
 

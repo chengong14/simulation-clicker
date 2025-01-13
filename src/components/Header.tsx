@@ -15,7 +15,7 @@ const Header = () => {
       <div className="container mx-auto px-4">
         <div className="flex flex-col md:flex-row justify-between items-center py-4">
           <h1 className="text-3xl font-bold text-indigo-600 mb-4 md:mb-0">
-            Simulation Clicker Game
+            stimulation Clicker Game
           </h1>
           
           <nav>

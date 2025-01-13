@@ -7,31 +7,31 @@ import { Analytics } from "@vercel/analytics/react"
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Simulation Clicker Game',
-  description: 'Play Simulation Clicker - A dynamic and fast-paced clicker game by Neal Agarwal',
-  keywords: 'simulation clicker, clicker game, neal agarwal, online game, browser game, casual game',
+  title: 'Stimulation Clicker Game',
+  description: 'Play stimulation Clicker - A dynamic and fast-paced clicker game by Neal Agarwal',
+  keywords: 'stimulation clicker, clicker game, neal agarwal, online game, browser game, casual game',
   authors: [{ name: 'Neal Agarwal' }],
   creator: 'Neal Agarwal',
   publisher: 'Neal Agarwal',
   openGraph: {
-    title: 'Simulation Clicker Game',
-    description: 'Play Simulation Clicker - A dynamic and fast-paced clicker game by Neal Agarwal',
+    title: 'Stimulation Clicker Game',
+    description: 'Play Stimulation Clicker - A dynamic and fast-paced clicker game by Neal Agarwal',
     type: 'website',
     locale: 'en_US',
-    siteName: 'Simulation Clicker Game',
+    siteName: 'Stimulation Clicker Game',
     images: [
       {
         url: '/og-image.jpg',
         width: 1200,
         height: 630,
-        alt: 'Simulation Clicker Game Preview'
+        alt: 'Stimulation Clicker Game Preview'
       }
     ]
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Simulation Clicker Game',
-    description: 'Play Simulation Clicker - A dynamic and fast-paced clicker game by Neal Agarwal',
+    title: 'Stimulation Clicker Game',
+    description: 'Play Stimulation Clicker - A dynamic and fast-paced clicker game by Neal Agarwal',
     images: ['/og-image.jpg']
   },
   robots: {
@@ -53,7 +53,7 @@ export const metadata: Metadata = {
     google: '', // 你需要替换这个值
   },
   alternates: {
-    canonical: 'https://www.simulator-clicker.online', // 你需要替换这个值
+    canonical: 'https://www.stimulation-clicker.online', // 你需要替换这个值
   }
 }
 

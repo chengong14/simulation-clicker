@@ -5,7 +5,7 @@ const Comments = () => {
   const initialComments = [
     {
       id: 1,
-      text: "Surprisingly fun. Neal's done it again. I got most of the simulation upgrades until i was generating so many passive clicks… Until the game eventually crashed.",
+      text: "Surprisingly fun. Neal's done it again. I got most of the stimulation upgrades until i was generating so many passive clicks… Until the game eventually crashed.",
       author: "Player1",
       likes: 15
     },

@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="container mx-auto px-4 py-12">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
-            <h3 className="text-xl font-bold text-white mb-4">Simulation Clicker</h3>
+            <h3 className="text-xl font-bold text-white mb-4">stimulation Clicker</h3>
             <p className="text-gray-400">
               A fun and addictive clicker game that will keep you entertained for hours!
             </p>
@@ -60,7 +60,7 @@ const Footer = () => {
         
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
           <p className="text-gray-400">
-            © {currentYear} Simulation Clicker. All rights reserved. Game created by Neal Agarwal.
+            © {currentYear} stimulation Clicker. All rights reserved. Game created by Neal Agarwal.
           </p>
         </div>
       </div>
