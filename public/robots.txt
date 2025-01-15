@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://simulation-clicker.vercel.app
+Host: https://www.stimulationclick.com
 
 # Sitemaps
-Sitemap: https://simulation-clicker.vercel.app/sitemap.xml
+Sitemap: https://www.stimulationclick.com/sitemap.xml
