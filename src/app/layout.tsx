@@ -53,7 +53,7 @@ export const metadata: Metadata = {
     google: '', // 你需要替换这个值
   },
   alternates: {
-    canonical: 'https://www.stimulation-clicker.online', // 你需要替换这个值
+    canonical: 'https://www.stimulationclick.com', // 你需要替换这个值
   }
 }
 

@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://simulation-clicker.vercel.app
+
+# Sitemaps
+Sitemap: https://simulation-clicker.vercel.app/sitemap.xml
