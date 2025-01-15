@@ -11,7 +11,7 @@ const Description = () => {
         <div className="prose max-w-none">
           <p className="text-white text-lg leading-relaxed mb-8">
             Stimulation Clicker is a dynamic and fast-paced clicker game developed by Neal Agarwal. 
-            In this game, players earn "stimulation" points by continuously clicking a button, 
+            In this game, players earn &ldquo;stimulation&rdquo; points by continuously clicking a button, 
             leading to an addictive and engaging gameplay experience.
           </p>
           
