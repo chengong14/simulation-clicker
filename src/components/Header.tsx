@@ -14,9 +14,11 @@ const Header = () => {
     <header className="glass-effect sticky top-0 z-50 backdrop-blur-lg">
       <div className="container mx-auto px-6">
         <div className="flex flex-col md:flex-row justify-between items-center py-4">
-          <h1 className="text-4xl font-extrabold mb-4 md:mb-0 bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-pink-600">
-            Stimulation Clicker
-          </h1>
+          <Link href="/" className="hover:opacity-80 transition-opacity">
+            <h1 className="text-4xl font-extrabold mb-4 md:mb-0 bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-pink-600">
+              Stimulation Clicker
+            </h1>
+          </Link>
           
           <nav className="w-full md:w-auto">
             <ul className="flex flex-wrap justify-center md:justify-end space-x-1 md:space-x-2">
