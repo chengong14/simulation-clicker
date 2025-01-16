@@ -16,7 +16,7 @@ const GameSection = () => {
       title: "Planet Clicker 2",
       description: "Continue your cosmic adventure in the sequel",
       href: "/games/planet-clicker-2",
-      image: "/img/PlanetClicker2.jpg"
+      image: "/img/Planetclicker2.jpg"
     }
   ];
 
@@ -31,7 +31,7 @@ const GameSection = () => {
           <div className="absolute -inset-1 bg-gradient-to-r from-purple-600 to-pink-600 rounded-2xl blur opacity-75 group-hover:opacity-100 transition duration-1000 group-hover:duration-200 animate-tilt"></div>
           <div className="relative">
             <iframe
-              src="https://html-classic.itch.zone/html/12491167/index.html"
+              src="https://html-classic.itch.zone/html/12512364/index.html"
               className="w-full h-[600px] border-0 rounded-xl shadow-2xl glow-effect"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowFullScreen
